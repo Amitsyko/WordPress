@@ -1,0 +1,73 @@
+/*
+Theme Name: Twenty Twenty-Three
+Theme URI: https://wordpress.org/themes/twentytwentythree
+Author: the WordPress team
+Author URI: https://wordpress.org
+Description: Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.
+Requires at least: 6.1
+Tested up to: 6.3
+Requires PHP: 5.6
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: twentytwentythree
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news
+*/
+
+.main{
+		display: flex;
+	}
+	.one{
+		width:70%;
+	}
+	.two{
+		width:30%;
+		border:1px solid black;
+		background: #ddefff91;	
+		padding-left:1rem	;
+	}
+	.head{
+		background: yellow;
+	}
+	.xylo{
+		background: #ffff78;
+	}
+	.lili{
+		background: #83f983;
+	}
+	#search-suggestions{
+		background: #ffc457;
+	}
+	a:where(:not(.wp-element-button)) {
+    color: var(--wp--preset--color--contrast);
+    text-decoration: none !important;
+	}
+	input[type="submit"]{
+		background: #9dff20;
+		border:none;
+		font-size: 2rem;
+	}
+	input[type="search"]{
+		
+		font-size: 1.8rem;
+	}
+
+	.aplha{
+		display: flex;
+
+	}
+	.abc{
+		width: 70%;
+		padding-left:2rem;
+		text-align: center;
+		
+	}
+	.def{
+		width: 30%;
+		background: black;
+		color: white;
+
+	}
+	.def a{
+		color:white;
+	}
