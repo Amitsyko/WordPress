@@ -1,3 +1,6 @@
+Just use this file then first you can inlude in index.php (.....<??php wp_head();?>.....)
+
+
 <?php 
 function enqueue_parent_styles() {
 
@@ -11,3 +14,6 @@ function enqueue_parent_styles() {
         }
 add_action( 'wp_enqueue_scripts', 'enqueue_parent_styles' );
 ?>
+
+
+
