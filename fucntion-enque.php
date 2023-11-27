@@ -1,3 +1,4 @@
+<?php 
 function enqueue_parent_styles() {
 
         wp_enqueue_style( 'parent-style', get_template_directory_uri().'/style.css' );
@@ -9,3 +10,4 @@ function enqueue_parent_styles() {
         wp_enqueue_script('bootstrap-script', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js', array(), '4.5.2');
         }
 add_action( 'wp_enqueue_scripts', 'enqueue_parent_styles' );
+?>
