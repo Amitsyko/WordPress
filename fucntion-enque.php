@@ -1,5 +1,5 @@
-Just use this file then first you can inlude in index.php (.....<??php wp_head();?>.....)
-
+(.....<?php wp_head();?>.....)    Just use this file then first you can inlude in index.php 
+                              
 
 <?php 
 function enqueue_parent_styles() {
