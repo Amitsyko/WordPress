@@ -17,8 +17,8 @@ Admin@2022
 
 Github Access :-
 
-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
+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
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/Amitsyko/HTML
+git remote set-url origin https://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l@github.com/Amitsyko/React
