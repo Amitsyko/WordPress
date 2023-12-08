@@ -13,3 +13,12 @@ Lemon@2019
 
 testck92@gmail.com
 Admin@2022
+
+
+Github Access :-
+
+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
+
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+git remote set-url origin https://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@github.com/Amitsyko/HTML
