@@ -18,11 +18,11 @@ Admin@2022
 Github Access :-
 
 
-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 ------------------
+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 ------------------
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/Amitsyko/React
+git remote set-url origin https://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@github.com/Amitsyko/React
 
 
 --------Git Push Commands-------
