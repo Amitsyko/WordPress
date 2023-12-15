@@ -18,11 +18,11 @@ Admin@2022
 Github Access :-
 
 
-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 ------------------
+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 ------------------
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/Amitsyko/React
+git remote set-url origin https://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@github.com/Amitsyko/HTML
 
 
 --------Git Push Commands-------
@@ -33,3 +33,26 @@ git merge origin/master
 git push origin master
 git push -f origin master
 
+
+
+
+
+
+---------vs code shortcut keys----------
+
+ctrl+shift+L (----to selcet the word for the curser----)
+
+ctrl + B (----to toggle side bar----)
+
+alt + Up and Down (to line up and down)
+
+
+ctrl + o (----to open current file in file manager----)
+
+ctrl + x (-----to dlt the lines------)
+
+ctrl + ` (----Open terminal-----)
+
+ctrl + , (------Open Setting------)
+
+shift + Alt	 + f (-----format documents the files----)
