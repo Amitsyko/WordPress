@@ -25,15 +25,21 @@ git remote set-url origin https://<token>@github.com/<username>/<repo>
 git remote set-url origin https://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@github.com/Amitsyko/HTML
 
 
---------Git Push Commands-------
+====================================================================================================
 
+--------Git Push Commands-------
 git fetch origin
 git rebase origin/master
 git merge origin/master
 git push origin master
 git push -f origin master
 
+--------Git Pull Commands-------
+git stash
+git pull origin main
+git stash apply
 
+====================================================================================================
 
 
 
